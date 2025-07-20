@@ -18,3 +18,5 @@ DYNA 로봇은 향후 수만 달러에 판매될 것으로 예상되며, 이는 
 ![lerobot](https://www.facebook.com/share/v/1V9zmksS3m/)
 
 https://www.facebook.com/share/v/1V9zmksS3m/
+
+![[ros-bridge-connecting-with-isaac-1.png]]
