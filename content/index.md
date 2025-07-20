@@ -1,5 +1,5 @@
 ---
-title: 안녕하세요, robot book blog
+title: robot book
 draft: false
 tags: 
 - example
