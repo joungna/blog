@@ -1,18 +1,10 @@
 ---
-theme: consult
-height: 540
-margin: 0
-maxScale: 4
+theme:
+  - consult
 ---
-<!-- slide template="[[tpl-con-2-1-box]]" -->
-
-::: title
 ### _**이 헤더는 제목 줄**_
-:::
+![[ros-bridge-connecting-with-isaac-1.png|500]]
 
-::: left
-![[Image.jpg|1500]]
-:::
 
 <style>
 .small-indent > ul { 
