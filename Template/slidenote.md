@@ -1,10 +1,10 @@
 ---
 theme:
   - consult
+tags:
+- midjourney  
 ---
 ### _**이 헤더는 제목 줄**_
-![[ros-bridge-connecting-with-isaac-1.png|500]]
-
 
 <style>
 .small-indent > ul { 

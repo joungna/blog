@@ -1,8 +1,9 @@
 ---
 title: Advanced
 day: 2025-07-20
+tags:
+- midjourney
 ---
-#daily #journal
 
 - [o] sort out papers
 - [-] Task with state (maybe)
